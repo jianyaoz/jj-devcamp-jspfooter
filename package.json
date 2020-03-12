@@ -1,0 +1,26 @@
+{
+  "name": "jj-devcamp-jspfooter",
+  "version": "0.1.0",
+  "description": "This Module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianyaoz/jj-devcamp-jspfooter.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Justin Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jianyaoz/jj-devcamp-jspfooter/issues"
+  },
+  "homepage": "https://github.com/jianyaoz/jj-devcamp-jspfooter#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
